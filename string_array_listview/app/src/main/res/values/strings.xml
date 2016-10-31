@@ -1,0 +1,22 @@
+<resources>
+
+
+    <string name="app_name">MyApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">My App V 1.0</string>
+    <string name="my_web">www.ThaiCreate.Com</string>
+
+    <string-array name="country_array">
+        <item>Belgium</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>Spain</item>
+        <item>Thailand</item>
+        <item>Taiwan</item>
+    </string-array>
+
+
+
+</resources>
